@@ -9,6 +9,7 @@ You will need a discord and spoonacular api key, both of which are free (upto 15
 1. Add your api keys to the str variables inside of the config file.
 2. Run the runner file.
 3. Message the bot through direct message or on any server channel they're in. (If wanted you can restrict this bot to only respond in certain channels.)
+4. Optional: You can type !help in discord chat to see a list of commands.
 
 
 # Links
